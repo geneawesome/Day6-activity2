@@ -120,7 +120,7 @@ header{
 
 footer {
     position: px;
-    bottom: 0;
+    bottom: 200px;
 }
 
 @media (max-height:800px) {
